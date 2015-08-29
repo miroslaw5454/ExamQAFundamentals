@@ -1,0 +1,61 @@
+Added comments are not bordered and separeted in good view. -> Design issue.
+
+
+
+
+There is no My Profile button/view/page.
+
+
+
+
+There is no Navigation on which page are you currently. -> design issue.
+
+
+
+
+No Contacts button in the navigation bar.
+
+
+
+No information in the bottom of the site who is the creator. 
+
+
+
+No background.
+
+
+
+No buttons for sharing in the social networks.
+
+
+Not able to switch between pictures in the albums with rows, for every single picture you have to press back and click on the next picture.
+
+
+
+
+Pictures are not clickable from album view.
+http://192.168.111.102/Album55e1af0a021dc/home/index
+
+
+
+Vote
+1.Navigate to some picture or album you would like to vote for it.
+2.You are not able to read the whole text in the box for submitting your vote. You can read only "Number between 0 an..."
+
+
+
+
+
+
+Search button:
+Instead of clicking on the Search button and redirected to new page, will be better to have a search filed and direclty to type into.
+1.Navigate to http://192.168.111.102/Album55e1af0a021dc/home/index
+2.Click Search button.
+
+
+
+
+
+
+
+The search engine is case sensitive. For example if you search album dogs with big "D" it doesnt shows up. You must type it exactly the same.

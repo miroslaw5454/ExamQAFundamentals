@@ -1,0 +1,17 @@
+
+
+1. 
+You can log with 1 digit password. Example 
+User : azz
+pass: a
+
+2.
+There is no email sending and verifying the registered user.
+
+3.
+username and password could matchup
+example: 
+user - 1
+pass - 1
+
+4.

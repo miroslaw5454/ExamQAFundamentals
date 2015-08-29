@@ -1,0 +1,300 @@
+YOu can vote for yourself.
+1. log in the site with user doktora and pass doktora
+2. navigate to http://192.168.111.102/Album55e1af0a021dc/albums/show/album/15
+3. select one of the picutres 2,3,4,5,6 and vote for them.
+
+
+
+Admin cannot delete comments:
+1. Navigate to album
+2. Submit a comment
+3. There is no button to edit or delete a comment.
+
+
+
+
+By hitting enter while writing a comment it submit it. 
+
+
+
+
+
+Unable to write on other line. If you press Shift + Enter nothing happen.
+
+
+
+Other user names are not clickable
+1. Navigate to http://192.168.111.102/Album55e1af0a021dc/albums/show/album/10
+2. Click on User: Stamat 
+
+
+
+
+When press back button after voting for picture it leads me again to voting page.
+1. Navigate to http://192.168.111.102/Album55e1af0a021dc/home/index
+2. Seelct album or picture and vote.
+3. Press back button and the page is redirected again to Vote or Comment Page.
+
+
+
+
+
+Cannot reorder the categories at all.
+1.Navigate to categories -> http://192.168.111.102/Album55e1af0a021dc/categories/showall
+2.No way to reorder the categories by alphabetic or rating.
+
+
+
+
+
+
+
+Cannot be redirected to muffins album in Category Food
+1. Navigate to http://192.168.111.102/photoalbum/albums/show/album/7
+2. Displayed error 
+Object not found!
+
+The requested URL was not found on this server. The link on the referring page seems to be wrong or outdated. Please inform the author of that page about the error.
+
+If you think this is a server error, please contact the webmaster.
+Error 404
+192.168.111.102
+Apache/2.4.16 (Win32) OpenSSL/1.0.1p PHP/5.5.27 
+
+
+
+
+
+
+
+
+Cannot be redirected to Category Food
+1. Navigate to http://192.168.111.102/Album55e1af0a021dc/categories/show/name/foodand press on muffins or Category: Food
+http://192.168.111.102/photoalbum/albums/show/album/7
+2. Displayed error 
+Object not found!
+
+The requested URL was not found on this server. The link on the referring page seems to be wrong or outdated. Please inform the author of that page about the error.
+
+If you think this is a server error, please contact the webmaster.
+Error 404
+192.168.111.102
+Apache/2.4.16 (Win32) OpenSSL/1.0.1p PHP/5.5.27 
+http://192.168.111.102/photoalbum/categories/show/name/food
+
+
+
+
+
+
+
+
+
+Cannot be redireted to category: animals from http://192.168.111.102/Album55e1af0a021dc/categories/show/name/animals
+1. Navigate to mentioned above link.
+2. press dogs and will be redirectod to not existing page
+http://192.168.111.102/photoalbum/albums/show/album/9
+Object not found!
+
+The requested URL was not found on this server. The link on the referring page seems to be wrong or outdated. Please inform the author of that page about the error.
+
+If you think this is a server error, please contact the webmaster.
+Error 404
+192.168.111.102
+Apache/2.4.16 (Win32) OpenSSL/1.0.1p PHP/5.5.27 
+
+
+
+
+
+
+
+
+
+
+
+1. Navigate to http://192.168.111.102/Album55e1af0a021dc/albums/show/album/2
+2. Press on hyperlnik category:food over the description and it redirects you to borken page.
+Shown error
+Object not found!
+
+The requested URL was not found on this server. The link on the referring page seems to be wrong or outdated. Please inform the author of that page about the error.
+
+If you think this is a server error, please contact the webmaster.
+Error 404
+192.168.111.102
+Apache/2.4.16 (Win32) OpenSSL/1.0.1p PHP/5.5.27 
+
+
+
+
+
+
+
+
+1. Navigate to http://192.168.111.102/Album55e1af0a021dc/albums/show/album/8
+2. Press on hyperlink category: cars over the description and it redirects you to borken page.
+Shown error
+Object not found!
+
+The requested URL was not found on this server. The link on the referring page seems to be wrong or outdated. Please inform the author of that page about the error.
+
+If you think this is a server error, please contact the webmaster.
+Error 404
+192.168.111.102
+Apache/2.4.16 (Win32) OpenSSL/1.0.1p PHP/5.5.27 
+
+
+
+
+
+
+
+1. Navigate to http://192.168.111.102/Album55e1af0a021dc/albums/show/album/1
+2. Press on hyperlink category: animals over the description and it redirects you to borken page.
+Shown error
+Object not found!
+
+The requested URL was not found on this server. The link on the referring page seems to be wrong or outdated. Please inform the author of that page about the error.
+
+If you think this is a server error, please contact the webmaster.
+Error 404
+192.168.111.102
+Apache/2.4.16 (Win32) OpenSSL/1.0.1p PHP/5.5.27 
+
+
+
+
+
+
+Cannot click on Orphan or category: celebrities next to it -> 
+1. Navigate to http://192.168.111.102/Album55e1af0a021dc/categories/show/name/celebrities
+2. click on Orphan (2nd album) and it leads you to http://192.168.111.102/photoalbum/albums/show/album/13 which cannot be displayed.
+Object not found!
+
+The requested URL was not found on this server. The link on the referring page seems to be wrong or outdated. Please inform the author of that page about the error.
+
+If you think this is a server error, please contact the webmaster.
+Error 404
+192.168.111.102
+
+
+
+
+
+
+
+Other user names are not clickable
+
+1. Navigate to http://192.168.111.102/Album55e1af0a021dc/albums/show/album/10
+2. Click on User: Stamat 
+
+
+
+
+Vote doesnt counted.
+1. Navigate to http://192.168.111.102/Album55e1af0a021dc/pictures/addvote/picture/34
+2. Vote with some number for Charliez Teron.
+3. Count doesnt change from 10.
+4. If you want to vote again it shows that it actually counted your vote already but the result doesnt change.
+
+
+
+If you want to vote for this picture http://192.168.111.102/Album55e1af0a021dc/pictures/show/picture/37
+It saying you are already voted for this album, not for the picture.
+
+
+
+
+
+
+If you want to vote for this picture http://192.168.111.102/Album55e1af0a021dc/pictures/addvote/picture/47
+It states that you already voted for this album.
+1. Navigate to http://192.168.111.102/Album55e1af0a021dc/pictures/addvote/picture/47
+2. Vote for the picture -> read the error ---> 
+Error
+you are already vote for this album
+
+
+
+
+
+
+
+
+
+Navigate to Search page - > http://192.168.111.102/Album55e1af0a021dc/home/search
+1. Type foo in the search field and press enter.
+2. One result found -> category: food.
+3. press on the found result. It redirects you to wrong category and album.
+
+Navigate to Search page - > http://192.168.111.102/Album55e1af0a021dc/home/search
+1. Type nature in the search field and press enter.
+2. One result found -> Category: nature 
+3. press on the found result. It redirects you to wrong category and album.
+
+
+Navigate to Search page - > http://192.168.111.102/Album55e1af0a021dc/home/search
+1. Type animals in the search field and press enter.
+2. Two results found -> 
+Search
+
+    3 Category: animals
+    4 Album: african animals
+
+If you click ont Album: african animals it redirects you to http://192.168.111.102/Album55e1af0a021dc/albums/show/album/2
+
+
+Navigate to Search page - > http://192.168.111.102/Album55e1af0a021dc/home/search
+1. Type cars in the search field and press enter.
+2. Results are 
+Search
+
+    1 Category: cars
+    3 Album: my dream cars
+3. If you click on Category: Cars you will be redirected to http://192.168.111.102/Album55e1af0a021dc/albums/show/album/3
+
+
+
+Navigate to Search page - > http://192.168.111.102/Album55e1af0a021dc/home/search
+1. Type buildings in the search field and press enter.
+2.  Result is   Category: buildings ...
+3. If you click on it you will be redirected to http://192.168.111.102/Album55e1af0a021dc/albums/show/album/10 -> Wrong album
+
+
+Navigate to Search page - > http://192.168.111.102/Album55e1af0a021dc/home/search
+1. Type celebrities in the search field and press enter.
+2. result is     Category: celebrities
+3. if you click on it will be redirected to http://192.168.111.102/Album55e1af0a021dc/albums/show/album/11 -> wrong page.
+
+
+
+Navigate to Search page - > http://192.168.111.102/Album55e1af0a021dc/home/search
+1. Type fantasy in the search field and press enter.
+2. result is     Category: fantasy
+3. if you click it will be redirected to wrong page -> http://192.168.111.102/Album55e1af0a021dc/albums/show/album/13
+
+
+Navigate to Search page - > http://192.168.111.102/Album55e1af0a021dc/home/search
+1. Type funny in the search field and press enter.
+2. displayed result is Category: funny 
+3. click it and will be redirected to wrong page -> http://192.168.111.102/Album55e1af0a021dc/albums/show/album/14
+
+
+Navigate to Search page - > http://192.168.111.102/Album55e1af0a021dc/home/search
+1. Type music in the search field and press enter.
+2. if you click on the displayed result will be redirected to page which doesnt exist. -> http://192.168.111.102/Album55e1af0a021dc/albums/show/album/15
+
+Navigate to Search page - > http://192.168.111.102/Album55e1af0a021dc/home/search
+1. Type movies in the search field and press enter.
+2. click on the displayed result and will be redirected to wrong page -> http://192.168.111.102/Album55e1af0a021dc/albums/show/album/16
+
+
+
+
+
+You can vote yourself
+1. Once you register you can add a pic and album and you can vote for both of them
+
+
+

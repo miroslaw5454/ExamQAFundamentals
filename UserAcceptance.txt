@@ -1,0 +1,100 @@
+No Edit or Delete buttons on my own albums
+1. log to the site as user doktora and pass doktora
+2. navigate to categories - food
+3. select My album
+4. There is no edit or delete pictures buttons.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WHen you add more then 4 pics it locate them in the page in different places.
+1. Navigate to http://192.168.111.102/Album55e1af0a021dc/albums/show/album/15
+
+
+
+
+
+
+
+
+
+Clicking on the hyperlink from MY ALBUM doesnt work. 
+1. Navigate to http://192.168.111.102/Album55e1af0a021dc/albums/show/album/15
+2. Click on the categories: food over the Description: pictures.
+3. displayed error:
+Object not found!
+
+The requested URL was not found on this server. The link on the referring page seems to be wrong or outdated. Please inform the author of that page about the error.
+
+If you think this is a server error, please contact the webmaster.
+Error 404
+192.168.111.102
+Apache/2.4.16 (Win32) OpenSSL/1.0.1p PHP/5.5.27 
+
+
+
+
+
+
+
+Album List
+There is no 10 albums per page. I see 11 albums listed in one page.
+Navigate to http://192.168.111.102/Album55e1af0a021dc/albums/showall
+
+
+
+
+
+
+
+Album List
+Albums are not ordered by date creation. I have created My Album and it took place infront of Volodia which already has been created.
+
+
+
+
+
+There is no pages to be selected below the album blocks.
+
+
+
+
+
+
+Search is able only for categories or albums, not for pictures.
+
+
+
+
+
+
+
+
+2.3.10.	Use Case 10 (Add Album)
+Navigate to http://192.168.111.102/Album55e1af0a021dc/albums/add
+There is no dropdown menu.
+
+
+
+
+
+
+
+If a not registered user click on ADD ALBUM button it doesnt redirect him to register page. 
+
+
+
+
